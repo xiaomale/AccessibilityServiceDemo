@@ -1,1 +1,2 @@
 # AccessibilityServiceDemo
+木马分析之诱骗用户使用辅助功能，在用户手机静默安装、卸载软件和杀死进程等
